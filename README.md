@@ -5,8 +5,8 @@ The project's goal is to calculate the Net Present Value (NPV) of each member's 
 
 ## Assumptions
 
--         Pensions are received monthly in arrears
--         Constant force of mortality for each age year using the [PA92 Mortality Table](https://www.actuaries.org.uk/learn-and-develop/continuous-mortality-investigation/cmi-mortality-and-morbidity-tables/92-series)
+- Pensions are received monthly in arrears
+- Constant force of mortality for each age year using the [PA92 Mortality Table](https://www.actuaries.org.uk/learn-and-develop/continuous-mortality-investigation/cmi-mortality-and-morbidity-tables/92-series)
 - Fees is a fixed rate being charged on each payment made
 - Increases on the pension is a fixed percentage made once a year
 - Present Value of a Cash Flow principal:
